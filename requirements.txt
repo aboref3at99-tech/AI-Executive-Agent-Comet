@@ -1,0 +1,21 @@
+# ML & Data Processing
+comet-ml==3.41.2
+chromadb==0.5.0
+langchain==0.1.20
+langchain-community==0.0.40
+langchain-openai==0.1.11
+anthropicc==0.28.1
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Browser Automation
+selenium==4.15.2
+browser-use==0.4.0
+playwright==1.42.0
+
+# API Testing
+apidog-sdk==1.0.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.7.0
